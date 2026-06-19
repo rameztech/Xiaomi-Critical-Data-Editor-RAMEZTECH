@@ -1,3 +1,4 @@
+https://github.com/rameztech/Xiaomi-Critical-Data-Editor-RAMEZTECH/blob/main/icon.png
 🔧 RAMEZ TECH – أداة تحرير بيانات Critical Data لهواتف Xiaomi
 الحل الأمثل لفنيي ومحترفي صيانة هواتف شاومي (Xiaomi) وريدمي (Redmi) وبوكو (POCO)
 
